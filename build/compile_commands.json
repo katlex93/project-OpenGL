@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/yakot/Documents/OpenGL/project-OpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/yakot/Documents/OpenGL/project-OpenGL/../libs/glfw/include -I/Users/yakot/Documents/OpenGL/project-OpenGL/include -g -std=gnu++17 -o CMakeFiles/OpenGLProject.dir/src/main.cpp.o -c /Users/yakot/Documents/OpenGL/project-OpenGL/src/main.cpp",
+  "file": "/Users/yakot/Documents/OpenGL/project-OpenGL/src/main.cpp",
+  "output": "CMakeFiles/OpenGLProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/yakot/Documents/OpenGL/project-OpenGL/build",
+  "command": "/usr/bin/clang  -I/Users/yakot/Documents/OpenGL/project-OpenGL/../libs/glfw/include -I/Users/yakot/Documents/OpenGL/project-OpenGL/include -g -o CMakeFiles/OpenGLProject.dir/src/glad.c.o -c /Users/yakot/Documents/OpenGL/project-OpenGL/src/glad.c",
+  "file": "/Users/yakot/Documents/OpenGL/project-OpenGL/src/glad.c",
+  "output": "CMakeFiles/OpenGLProject.dir/src/glad.c.o"
+}
+]

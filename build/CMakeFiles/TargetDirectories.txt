@@ -1,0 +1,3 @@
+/Users/yakot/Documents/OpenGL/project-OpenGL/build/CMakeFiles/OpenGLProject.dir
+/Users/yakot/Documents/OpenGL/project-OpenGL/build/CMakeFiles/edit_cache.dir
+/Users/yakot/Documents/OpenGL/project-OpenGL/build/CMakeFiles/rebuild_cache.dir

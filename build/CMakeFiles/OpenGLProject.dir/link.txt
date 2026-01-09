@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/OpenGLProject.dir/src/main.cpp.o CMakeFiles/OpenGLProject.dir/src/glad.c.o -o OpenGLProject  /Users/yakot/Documents/OpenGL/project-OpenGL/../libs/glfw/lib-universal/libglfw3.a -framework OpenGL -framework Cocoa -framework IOKit -framework CoreVideo
