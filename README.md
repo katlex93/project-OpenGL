@@ -16,3 +16,7 @@ cmake --build .
 ```
 ./OpenGLProject
 ```
+### 4. Link to project 
+```
+./OpenGLProject
+```
